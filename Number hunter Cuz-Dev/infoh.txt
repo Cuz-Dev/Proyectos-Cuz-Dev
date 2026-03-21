@@ -1,0 +1,6 @@
+
+info  Number Hunter
+
+juego desarrollado por Cuz-Dev
+*cada que el usuario pierda se reiniciara el juego
+*juego arcade, 10 niveles
