@@ -1,0 +1,10 @@
+Sistema escolar v2026.0.3
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.0.3
+        Novedades
+
+*retroceso (bucle while)
+*Finalizacion menu estudiantes,acudientes
+
+¡!Gracias por ejecutar mi programa!¡
