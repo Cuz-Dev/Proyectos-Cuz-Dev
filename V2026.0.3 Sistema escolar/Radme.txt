@@ -1,0 +1,7 @@
+Hola gracias por ejecutar mi programa,
+estoy trabajando en la v.0.4. Necesitas
+los 3 archivos que están en la carpeta
+para que funcione. ademas de necesitar
+una aplicación si ejecutas mi programa 
+en Android link 👇
+https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
