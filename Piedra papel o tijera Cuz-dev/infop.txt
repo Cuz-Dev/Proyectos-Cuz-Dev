@@ -1,0 +1,12 @@
+
+Piedra papel o tijera
+Desarrollador Cuz-Dev
+
+*Puntaje usuario, maquina
+*Retroceso bucle while
+
+
+¡!Gracias por ejecutar mi programa¡!
+
+Recuerda que en mi github hay mas proyectos
+Nuevamente Gracias
