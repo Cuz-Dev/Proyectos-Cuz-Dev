@@ -1,0 +1,20 @@
+
+Piedra papel o tijera
+Desarrollador Cuz-Dev
+
+*Puntaje usuario, maquina
+*Retroceso bucle while
+*si pierdes no se borra tu Puntaje
+
+reglas
+* No se puede manipular el codigo, es decir no se puede poner la  funcion print
+para que muestre la eleccion  de la maquina
+
+v2 Novedades
+* manejo de errores
+
+
+¡!Gracias por ejecutar mi programa¡!
+
+Recuerda que en mi github hay mas proyectos
+Nuevamente Gracias
