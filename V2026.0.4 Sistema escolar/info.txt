@@ -1,0 +1,10 @@
+Sistema escolar v2026.0.4
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.0.4
+        Novedades
+
+*Interfaz Con simbolos, Interfaz mas llamativa.
+*Correccion de errores ortograficos
+
+¡!Gracias por ejecutar mi programa!¡
