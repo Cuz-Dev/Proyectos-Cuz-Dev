@@ -1,0 +1,15 @@
+info Generador de contraseñas
+Desarrollador Cuz-Dev
+
+* crea contraseñas de 4 6, 8 dijitos
+combinando numeros, simbolos, letras
+* Genera contraseñas random dijitos y letras,
+simbolos, totalmete elegidos. por la maquina
+* Guarda contraseñas en el archivo
+save password.txt
+
+¡! Recuerda que las contraseñas que guardes quedadn en el
+archivo save password.txt
+
+¡!Gracias por ejecutar mi programa!¡
+Recuerda que en mi github hay mas proyectos
