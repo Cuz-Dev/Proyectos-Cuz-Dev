@@ -1,0 +1,14 @@
+Sistema escolar v2026.0.5
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.0.5
+        Novedades
+
+* Menu de herramientas agregado
+* Se mejor la logica de los menus 
+principales eliminando variables
+innecesarias
+* manejo de errores
+* Se completo el sub menu undecimo
+
+¡!Gracias por ejecutar mi programa!¡
