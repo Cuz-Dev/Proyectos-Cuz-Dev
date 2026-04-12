@@ -1,0 +1,16 @@
+Sistema escolar v2026.0.6
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.0.6
+        Novedades
+
+* Refactorizaccion, para un codigo mas
+ordenado
+* Correccion sub menu octavo
+* Reutilizacion de funciones
+* codigo mas compacto antes 3557 lineas
+ahora 1584,
+
+¡!Gracias por ejecutar mi programa!¡
+
+¡!Recuerda que en mi gihub hay mas proyectos!¡
