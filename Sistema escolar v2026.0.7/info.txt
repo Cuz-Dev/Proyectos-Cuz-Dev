@@ -1,0 +1,14 @@
+Sistema escolar v2026.0.7
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.0.7
+        Novedades
+
+* Mensaje de bienevenida con turtle
+* Nuevo menu Rector
+* Sub menu para coordinador
+* submenu añadido a herramientas
+
+¡!Gracias por ejecutar mi programa!¡
+
+¡!Recuerda que en mi gihub hay mas proyectos!¡
