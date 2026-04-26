@@ -1,0 +1,20 @@
+Sistema escolar v2026.0.8
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.0.8
+        Novedades
+
+* Refactorizacion mejorada con poo
+"programacion orientada a objetos"
+
+*error de android solucionado, EofError:
+
+* Cambio de nombre de variables
+
+* Manejo de errores comunes de archivos
+
+* Enumeracion de errores para mejorar el debuggeo
+
+¡!Gracias por ejecutar mi programa!¡
+
+¡!Recuerda que en mi gihub hay mas proyectos!¡
