@@ -1,0 +1,20 @@
+Sistema escolar v2026.0.9
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.0.9
+        Novedades
+
+* Reduccion de codigo spaguetti,
+reduccion de if y elif
+
+* Menu para agregar estudiantes,
+con archivo json
+- ordenado por grado, curso nombre
+
+* Menu ver estudiantes
+
+* Bub submenu herramientas, juegos solucionado
+
+¡!Gracias por ejecutar mi programa!¡
+
+¡!Recuerda que en mi gihub hay mas proyectos!¡
