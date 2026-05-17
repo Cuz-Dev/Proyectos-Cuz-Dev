@@ -1,0 +1,21 @@
+﻿Sistema escolar v2026.1.1
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.1.1
+        Novedades
+
+* Menu notas incorporado
+
+* limpiador de pantalla incorporado
+
+* refactorizacion de:
+1: submenu eventos
+2: submenu directivos
+3: logins de directivos
+4: login menu principal
+
+* Error solucionado en menu info
+
+¡!Gracias por ejecutar mi programa!¡
+
+¡!Recuerda que en mi gihub hay mas proyectos!¡

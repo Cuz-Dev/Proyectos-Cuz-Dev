@@ -1,0 +1,37 @@
+{
+    "10": {
+        "1": [
+            {
+                "Nombre": "Camilo",
+                "Apellido": "Urrego",
+                "notas": {
+                    "Matematicas": [
+                        4.0
+                    ]
+                }
+            }
+        ]
+    },
+    "6": {
+        "3": [
+            {
+                "Nombre": "Juan",
+                "Apellido": "Perez",
+                "notas": {}
+            }
+        ]
+    },
+    "11": {
+        "2": [
+            {
+                "Nombre": "Laura",
+                "Apellido": "Torres",
+                "notas": {
+                    "Tecnologia": [
+                        5.0
+                    ]
+                }
+            }
+        ]
+    }
+}
