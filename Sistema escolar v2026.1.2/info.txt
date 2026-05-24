@@ -1,0 +1,16 @@
+﻿Sistema escolar v2026.1.2
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.1.2
+        Novedades
+
+* Modularizacion
+
+* Reduccion de codigo spaggetti
+
+* Sub menu agregado anotaciones
+
+
+¡!Gracias por ejecutar mi programa!¡
+
+¡!Recuerda que en mi gihub hay mas proyectos!¡
