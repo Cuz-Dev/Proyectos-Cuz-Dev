@@ -1,0 +1,19 @@
+﻿Sistema escolar v2026.1.3
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.1.3
+        Novedades
+
+* Reestructuracion de json
+
+* Sub menu agregado, quitar estudiante
+
+* cambio de contraseñas directivos
+ contraseñas por defecto:
+  rector: 202600
+  coordinador: 202601
+  docente: 202614
+
+* interfaz de terminal mejorada
+
+* correcion de errores ortograficos
