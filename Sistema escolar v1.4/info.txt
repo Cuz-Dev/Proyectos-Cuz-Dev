@@ -1,0 +1,9 @@
+﻿Sistema escolar v2026.1.4
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.1.4
+        Novedades
+
+* Sistema escolar estable reduciion de errores en un 90
+
+* Sub menu agregado acudientes
