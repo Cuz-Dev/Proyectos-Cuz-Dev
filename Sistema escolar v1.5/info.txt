@@ -1,0 +1,15 @@
+﻿Sistema escolar v2026.1.5
+Desarrollador Cuz-Dev
+
+Actualizacion v2026.1.5
+        Novedades
+
+* Generador de boletines
+exportador de boletines guarda automaticamente
+en carpeta de grado y curso
+
+* Solucion de estudiantes
+ahora se pueden guardar varios estudiantes 
+en el mismo curso
+
+* Sub menu agregado acudientes
