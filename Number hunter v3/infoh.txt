@@ -1,0 +1,14 @@
+
+Number Hunter
+    v3
+
+Novedades:
+
+*Manejo de errores 
+*Implementacion de poo, refactorizacion, modularizacion
+*Guardado de puntajes en la carpeta puntajes
+
+Reglas no se puede manipular el codigo
+
+desarrollador cuz-dev
+
