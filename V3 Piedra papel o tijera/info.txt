@@ -1,0 +1,7 @@
+
+Piedra papel o tijera 
+ desarrollador cuz-DIRECTIVO
+
+ integracion de poo, maanejo de errores, modularizacion. etc
+
+ Gracias pòr ejecutar mi programa
