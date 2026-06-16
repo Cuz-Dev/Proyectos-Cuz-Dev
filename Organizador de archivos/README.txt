@@ -14,8 +14,11 @@ archivos como
 .class
 .exe
 
-Entre otros, Debes poner el archivo ORGANIZADOR DE ARCHIVOS.py
-en la carpeta que se desea organizar y se debe ejecutar posteriormente mente
+Entre otros,
+instrucciones:
+Debes poner el archivo ORGANIZADOR DE ARCHIVOS.py
+en la carpeta que se desea organizar y se debe ejecutar posteriormente mente.
+
 en próximas actualizaciones se añadiran mas extenciónes
 de archivos.
 
